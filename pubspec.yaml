@@ -1,8 +1,7 @@
 name: prism_palette
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
-
+description: "Fast, pure-Flutter color palette extraction built on material_color_utilities. The maintained replacement for the discontinued palette_generator."
+version: 0.1.0
+homepage: https://pub.dev/packages/prism_palette
 environment:
   sdk: ^3.11.1
   flutter: ">=1.17.0"
